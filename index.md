@@ -19,3 +19,7 @@ sudo apt update
 ```
 sudo apt upgrade
 ```
+
+
+- [ ] bu boş
+- [x] bu dolu 
